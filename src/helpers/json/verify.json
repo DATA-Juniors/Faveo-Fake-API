@@ -1,0 +1,13 @@
+{
+    "message": "Successfuly register",
+    "user": {
+        "id": 5,
+        "email": "johndoe@gmail.com",
+        "name": "John",
+        "surname": "Doe",
+        "birthday": "10.01.1996",
+        "phone": "99891 123-45-67",
+        "role": "User"
+    },
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4c"
+}
