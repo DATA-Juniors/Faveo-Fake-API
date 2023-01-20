@@ -1,0 +1,13 @@
+{
+    "message": "Application info retrived",
+    "info": {
+        "name": "Beautiful Foods",
+        "location": {
+            "geo": "12.66532:5.216653",
+            "address": "New York, Broadway 14/B"
+        },
+        "phones": [
+            "99891 123-45-67"
+        ]
+    }
+}
