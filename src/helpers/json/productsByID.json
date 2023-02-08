@@ -1,0 +1,14 @@
+{
+    "message": "Retrive product by id 1",
+    "product":  {
+        "id": 1,
+        "name": "Hamburger",
+        "price" : 9.11,
+        "image" : "images/hamburger-001.png",
+        "category": {
+            "id": 1,
+            "name": "Foods",
+            "icon": "foods-icon.png"
+        }
+    }
+}

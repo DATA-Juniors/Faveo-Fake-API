@@ -1,0 +1,14 @@
+{
+    "message": "User info updated",
+    "user": 
+    {
+        "id": 5,
+        "email": "johndoe@gmail.com",
+        "name": "John",
+        "surname": "Doe",
+        "birthday": "10.01.1996",
+        "phone": "99891 123-45-67",
+        "role": "User"
+    }
+
+}

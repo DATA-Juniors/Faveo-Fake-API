@@ -1,0 +1,27 @@
+{
+    "message": "Retrive all products",
+    "products": [
+        {
+            "id": 1,
+            "name": "Hamburger",
+            "price" : 9.11,
+            "image" : "images/hamburger-001.png",
+            "category": {
+                "id": 1,
+                "name": "Foods",
+                "icon": "foods-icon.png"
+            }
+        },
+        {
+            "id": 1,
+            "name": "Coca-cola",
+            "price" : 5.99,
+            "image" : "images/coca-cola-001.png",
+            "category": {
+                "id": 2,
+                "name": "Drinks",
+                "icon": "drinks-icon.png"
+            }
+        }
+    ]
+}
